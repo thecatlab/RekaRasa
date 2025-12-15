@@ -54,7 +54,7 @@ const BeverageGenerator = () => {
   const recipeRef = useRef(null);
 
   // API Key (injected by environment)
-  const apiKey = "AIzaSyCE4XQxNPr2BBOBjyi8tGmgfTlrSFhPr-o"; 
+  const apiKey = "AIzaSyDkxyzurSqZ41S3pPKMj73iey3q7q9rb0k"; 
 
   // --- Constants & Options ---
   
